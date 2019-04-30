@@ -1,0 +1,10 @@
+
+Deverá ser criado um relatório com o print da realização dos seguintes itens:
+- Criar um Grupo de recursos
+- Criar a Vnets
+- Criar 1 VM (Máquina Virtual)
+- Definir permissão de Leitura para o seguinte usuário: vanderson.bossi@hotmail.com
+
+Após gerar as evidências com os prints de tela, descrever qual foi a maior dificuldade e o que poderia ser mudado nas configurações para tornar seu ambiente melhor.
+
+A entrega deverá ser feita através do formulário disponibilizado no Classroom
